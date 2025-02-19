@@ -1,0 +1,17 @@
+C:\Users\biv92l\Desktop\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.exe
+C:\Users\biv92l\Desktop\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.deps.json
+C:\Users\biv92l\Desktop\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.runtimeconfig.json
+C:\Users\biv92l\Desktop\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.dll
+C:\Users\biv92l\Desktop\First\LoanCalculator\bin\Debug\net7.0-windows\LoanCalculator.pdb
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.AssemblyReference.cache
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.Form1.resources
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.GenerateResource.cache
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.AssemblyInfoInputs.cache
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.AssemblyInfo.cs
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.dll
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\refint\LoanCalculator.dll
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.pdb
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\LoanCalculator.genruntimeconfig.cache
+C:\Users\biv92l\Desktop\First\LoanCalculator\obj\Debug\net7.0-windows\ref\LoanCalculator.dll

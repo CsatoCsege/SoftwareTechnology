@@ -1,0 +1,17 @@
+C:\Users\biv92l\Desktop\Second\Szorzotabla\bin\Debug\net7.0-windows\Szorzotabla.exe
+C:\Users\biv92l\Desktop\Second\Szorzotabla\bin\Debug\net7.0-windows\Szorzotabla.deps.json
+C:\Users\biv92l\Desktop\Second\Szorzotabla\bin\Debug\net7.0-windows\Szorzotabla.runtimeconfig.json
+C:\Users\biv92l\Desktop\Second\Szorzotabla\bin\Debug\net7.0-windows\Szorzotabla.dll
+C:\Users\biv92l\Desktop\Second\Szorzotabla\bin\Debug\net7.0-windows\Szorzotabla.pdb
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.csproj.AssemblyReference.cache
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.Form1.resources
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.csproj.GenerateResource.cache
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.AssemblyInfoInputs.cache
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.AssemblyInfo.cs
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.csproj.CoreCompileInputs.cache
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.dll
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\refint\Szorzotabla.dll
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.pdb
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\Szorzotabla.genruntimeconfig.cache
+C:\Users\biv92l\Desktop\Second\Szorzotabla\obj\Debug\net7.0-windows\ref\Szorzotabla.dll

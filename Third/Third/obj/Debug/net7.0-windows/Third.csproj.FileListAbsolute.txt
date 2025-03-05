@@ -1,0 +1,17 @@
+C:\Users\biv92l\Desktop\Third\Third\bin\Debug\net7.0-windows\Third.exe
+C:\Users\biv92l\Desktop\Third\Third\bin\Debug\net7.0-windows\Third.deps.json
+C:\Users\biv92l\Desktop\Third\Third\bin\Debug\net7.0-windows\Third.runtimeconfig.json
+C:\Users\biv92l\Desktop\Third\Third\bin\Debug\net7.0-windows\Third.dll
+C:\Users\biv92l\Desktop\Third\Third\bin\Debug\net7.0-windows\Third.pdb
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.csproj.AssemblyReference.cache
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.Form1.resources
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.csproj.GenerateResource.cache
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.AssemblyInfoInputs.cache
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.AssemblyInfo.cs
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.csproj.CoreCompileInputs.cache
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.dll
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\refint\Third.dll
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.pdb
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\Third.genruntimeconfig.cache
+C:\Users\biv92l\Desktop\Third\Third\obj\Debug\net7.0-windows\ref\Third.dll

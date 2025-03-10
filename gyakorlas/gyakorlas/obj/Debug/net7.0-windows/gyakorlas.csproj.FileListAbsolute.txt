@@ -1,0 +1,17 @@
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\bin\Debug\net7.0-windows\gyakorlas.exe
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\bin\Debug\net7.0-windows\gyakorlas.deps.json
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\bin\Debug\net7.0-windows\gyakorlas.runtimeconfig.json
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\bin\Debug\net7.0-windows\gyakorlas.dll
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\bin\Debug\net7.0-windows\gyakorlas.pdb
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.csproj.AssemblyReference.cache
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.Form1.resources
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.csproj.GenerateResource.cache
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.AssemblyInfoInputs.cache
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.AssemblyInfo.cs
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.dll
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\refint\gyakorlas.dll
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.pdb
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\gyakorlas.genruntimeconfig.cache
+C:\Users\biv92l\Desktop\gyakorlas\gyakorlas\obj\Debug\net7.0-windows\ref\gyakorlas.dll

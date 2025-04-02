@@ -1,0 +1,33 @@
+C:\Users\biv92l\Desktop\snake\snake\bin\Debug\net7.0-windows\snake.exe
+C:\Users\biv92l\Desktop\snake\snake\bin\Debug\net7.0-windows\snake.deps.json
+C:\Users\biv92l\Desktop\snake\snake\bin\Debug\net7.0-windows\snake.runtimeconfig.json
+C:\Users\biv92l\Desktop\snake\snake\bin\Debug\net7.0-windows\snake.dll
+C:\Users\biv92l\Desktop\snake\snake\bin\Debug\net7.0-windows\snake.pdb
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.csproj.AssemblyReference.cache
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.Form1.resources
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.csproj.GenerateResource.cache
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.AssemblyInfoInputs.cache
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.AssemblyInfo.cs
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.csproj.CoreCompileInputs.cache
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.dll
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\refint\snake.dll
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.pdb
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\snake.genruntimeconfig.cache
+C:\Users\biv92l\Desktop\snake\snake\obj\Debug\net7.0-windows\ref\snake.dll
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\bin\Debug\net7.0-windows\snake.exe
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\bin\Debug\net7.0-windows\snake.deps.json
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\bin\Debug\net7.0-windows\snake.runtimeconfig.json
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\bin\Debug\net7.0-windows\snake.dll
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\bin\Debug\net7.0-windows\snake.pdb
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.Form1.resources
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.csproj.GenerateResource.cache
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.AssemblyInfoInputs.cache
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.AssemblyInfo.cs
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.csproj.CoreCompileInputs.cache
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.dll
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\refint\snake.dll
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.pdb
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\snake.genruntimeconfig.cache
+D:\Letöltések\SoftwareTechnology-main (1)\SoftwareTechnology-main\snake\snake\obj\Debug\net7.0-windows\ref\snake.dll
